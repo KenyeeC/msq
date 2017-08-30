@@ -1,0 +1,27 @@
+{
+  "name": "msq",
+  "version": "1.0.1",
+  "description": "mysql manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenyeeC/msq.git"
+  },
+  "keywords": [
+    "mysql",
+    "manager"
+  ],
+  "author": "kenyeecheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenyeeC/msq/issues"
+  },
+  "homepage": "https://github.com/KenyeeC/msq#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "thunkify-array": "^1.0.0"
+  }
+}
